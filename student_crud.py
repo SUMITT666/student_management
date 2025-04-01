@@ -193,4 +193,4 @@ if __name__ == "__main__":
     # create_table_enrollment()
     # insert_enrollment(1, 1) #student_id and course_id
     # update_enrollment(1, 2, 2) #enrollment_id, student_id and course_id
-    # delete_enrollment(2) #enrollment_id
+    # delete_enrollment(2) #enrollment_id   
